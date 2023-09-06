@@ -366,7 +366,7 @@ about
 }
 
 .features-item {
-  padding: 60px 0;
+  padding: 30px 0;
   border-radius: 5px;
   text-align: center;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
@@ -384,6 +384,10 @@ about
 }
 
 .features-item .price-paket {
+  font-size: 40px;
+}
+
+.features-item .price-bold {
   font-size: 40px;
 }
 
