@@ -476,7 +476,7 @@ promotion
   margin-top: 3px;
 }
 
-#promotion .right-text .row .content-2{
+#promotion .right-text .row .content-2 {
   margin-top: 30px;
 }
 
@@ -597,6 +597,8 @@ testimonials
 
 .img-client {
   padding: 20px 20px 20px 20px;
+  width: 100%;
+  height: 100%;
 }
 
 /* 
@@ -872,7 +874,6 @@ preloader
   cursor: pointer;
 }
 
-
 @-webkit-keyframes jumper {
   0% {
     opacity: 0;
@@ -915,11 +916,6 @@ preloader
 
   .features-item {
     padding: 20px 10px;
-  }
-
-  .img-client {
-    width: 50%;
-    height: 50%;
   }
 
   .welcome-area {
